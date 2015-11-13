@@ -29,7 +29,7 @@ description: A blog of my musings.
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  Contact: "contact"
+  #Contact: "contact"
   
 # --- Footer options --- #
 
