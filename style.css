@@ -1,5 +1,9 @@
 body {
-	background-color: #292c36;
+	background-color: #3E3F41;
 	font-family: 'Inconsolata';
 	color: white;
+}
+
+a {
+	text-decoration: none;
 }
